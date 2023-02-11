@@ -1,0 +1,114 @@
+body {
+    font-family: sans-serif;
+    background-image: url("banner-g3976f87d2_1920.jpg");
+    font-family:'Courier New', Courier, monospace;
+}
+
+.baran{
+    float: left;
+
+}
+
+.f{
+    width: 150px;
+    margin: 20px 0px 0px 10px;
+    border-radius: 100px;
+}
+
+header h1{
+    text-align: center;
+    color:white;
+    font-size: 40px;
+    margin: 20px 150px 0px 0px;
+}
+
+header{
+    background-image: url("universe-ge82d13dd0_1920.jpg");
+    border: black 2px solid;
+    border-radius: 5px;
+    height: 200px;
+
+}
+
+nav{
+    display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 10vh;
+	margin: 0;
+	padding: 0;
+}
+
+.r{
+    font-size: 20px;
+	font-family: monospace;
+	color: #fff;
+	background: linear-gradient(to left, #1FA2FF, #12D8FA, #A6FFCB);
+	text-decoration: none;
+	padding: 20px 70px;
+	border-radius: 10px;
+	background-size: 200%;
+	transition: .5s;
+    margin: 50px 150px 0px 0px;
+
+}
+
+.r:hover {
+	background-position: right;
+}
+
+ main img{
+    width:1000px ; 
+    margin: 10px 0px 5px 10px; 
+ }
+
+ main h1{
+     text-align: center;
+     font-size: 50px;
+     color: white;
+
+ }
+
+table{
+    background-image: url("universe-ge82d13dd0_1920.jpg");
+    padding:10px 700px 10px 0px ;
+    font-size: 50px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 100%;
+    border-collapse: collapse;
+    color: white;
+}
+
+
+.A{
+    color: red;
+}
+
+td{
+    width: 50%;
+}
+
+
+footer{
+    background-image: url("universe-ge82d13dd0_1920.jpg");
+    padding: 2px 0px 2px 0px;
+    margin: 10px 0px 0px 10px;
+    border-radius: 10px;
+    color: white;
+
+}
+
+.w{
+    margin: 10px;
+}
+
+main img{
+    border-radius: 10px;
+}
+
+main p{
+    text-align: center;
+}
+
